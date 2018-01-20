@@ -1,5 +1,8 @@
 {
   "expo": {
+    "name": "Secure Password Generator",
+    "slug": "mss-spg",
+    "version": "1.0",
     "sdkVersion": "23.0.0"
   }
 }
